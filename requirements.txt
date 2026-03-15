@@ -1,0 +1,7 @@
+streamlit
+boto3
+plotly
+graphviz
+python-docx
+reportlab
+requests
